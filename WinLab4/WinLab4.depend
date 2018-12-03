@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543576751 source:c:\users\gennady\downloads\codeblockstesting\winlab4\main.cpp
+	<iostream>
+	<windows.h>
+

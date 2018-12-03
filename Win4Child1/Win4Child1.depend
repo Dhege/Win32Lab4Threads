@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542927294 source:c:\users\gennady\downloads\win32lab2018\winapilab4\win4child1\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
